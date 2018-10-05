@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Ambition (2/5)
+## Ecc2:1-11
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/ambition.svg)](https://travis-ci.org/sermons/ambition)
+[![Node deps](https://david-dm.org/sermons/ambition.svg)](https://david-dm.org/sermons/ambition)
+[![Node devDeps](https://david-dm.org/sermons/ambition/dev-status.svg)](https://david-dm.org/sermons/ambition?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
