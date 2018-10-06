@@ -238,6 +238,12 @@ understand what the **will of the Lord** is.
 <!-- .slide: data-background="white" -->
 # Have I had the satisfaction of a "job well done"?
 
+>>>
++ e.g., friend who (when single) did **running**
+  + 60-80km 2-3x/wk, Vancouver-Langley
+  + measure **progress**
+  + set **goals** + attain them
+
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
 ## Ambition [(Ecc2)](# "ref")
@@ -247,6 +253,17 @@ understand what the **will of the Lord** is.
 
 >>>
 + e.g., JJ too many **toys**
+
+---
+Take care, and be on your **guard** <br>
+against all **covetousness**, <br>
+for one's **life** does not consist in <br>
+the abundance of his **possessions**.
+
+<div class="zh">
+</div>
+
+[Luke 12:15 (ESV/CUV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
