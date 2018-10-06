@@ -389,7 +389,7 @@ Enter into the **joy** of your master!
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I had the satisfaction of a "job well done"?
+# Have I had the **satisfaction** of <br> a "job well done"?
 
 >>>
 + e.g., friend who (when single) did **running**
@@ -407,6 +407,26 @@ Enter into the **joy** of your master!
 1. Pleasure [(v1-3)](# "ref")
 1. Projects [(v4-6)](# "ref")
 1. **Possessions** [(v7-9)](# "ref")
+
+---
+[7](# "ref")
+I had also great **possessions** of herds and flocks, <br>
+more than any who had been before me in Jerusalem.
+
+[8](# "ref")
+I also gathered for myself **silver** and **gold** <br>
+and the **treasure** of kings and provinces.
+
+<div class="zh">
+[7](# "ref")
+我 ... 又 有 許 多 牛 群 羊 群 ， <br>
+勝 過 以 前 在 耶 路 撒 冷 眾 人 所 有 的 。<br>
+[8](# "ref")
+我 又 為 自 己 積 蓄 金 銀 和 君 王 的 財 寶 ， <br>
+並 各 省 的 財 寶 ； <br>
+</div>
+
+[Ecclesiastes 傳道書 2:7,8 (ESV/CUV)](# "ref")
 
 >>>
 + e.g., JJ too many **toys**
@@ -467,11 +487,12 @@ so that they make take hold of that which is **truly** life.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **possessions** do I take **pride** in?
+# What **possessions** cause me to be **proud**?
 
 ---
 <!-- .slide: data-background="white" -->
 ## 1. What are my **goals** in life?
-## 2.
-## 3.
+## 2. Is it wrong to pursue **happiness**? [(Eph5:15-17)](# "ref")
+## 3. Have I had the **satisfaction** of a "job well done"? [(Mt25:21)](# "ref")
+## 4. What **possessions** cause me to be **proud**? [(1Tim6:17-19)](# "ref")
 
