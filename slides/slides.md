@@ -1,9 +1,9 @@
-<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="title" -->
 # Ambition
 ## Ecclesiastes 2:1-11
 ### The Meaning of Life (2/5)
 
-[Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
+[Caleb George](https://unsplash.com/photos/URmkfvtK3Qw "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
@@ -20,18 +20,23 @@
 [###](#/outline "secret")
 
 ---
-<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="outline" class="outline" -->
 ## Ambition [(Ecc2)](# "ref")
 1. **Pleasure** [(v1-3)](# "ref")
 1. **Projects** [(v4-6)](# "ref")
 1. **Possessions** [(v7-9)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> -->
+
+[Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
+
+---
 <!-- .slide: data-background="white" -->
 # Q1
 
 ---
-<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
 ## Ambition [(Ecc2)](# "ref")
 1. Pleasure [(v1-3)](# "ref")
 1. **Projects** [(v4-6)](# "ref")
@@ -42,7 +47,7 @@
 # Q2
 
 ---
-<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
 ## Ambition [(Ecc2)](# "ref")
 1. Pleasure [(v1-3)](# "ref")
 1. Projects [(v4-6)](# "ref")
