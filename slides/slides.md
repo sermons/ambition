@@ -15,9 +15,151 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What are my **goals** in life?
 
 [###](#/outline "secret")
+
+---
+I said in my heart, “Come now, <br>
+I will test you with pleasure; enjoy yourself.” <br>
+But behold, this also was vanity.
+
+[2](# "ref")
+I said of laughter, “It is mad,” <br>
+and of pleasure, “What use is it?”
+
+<div class="zh">
+我 心 裡 說 ： 來 罷 ， 我 以 喜 樂 試 試 你 ，<br>
+你 好 享 福 ！ 誰 知 ， 這 也 是 虛 空 。<br>
+
+[2](# "ref")
+我 指 嬉 笑 說 ： 這 是 狂 妄 。 <br>
+論 喜 樂 說 ： 有 何 功 效 呢 ？
+</div>
+
+[Ecclesiastes 傳道書 2:1-2 (ESV/CUV) (p.1/8)](# "ref")
+
+---
+[3](# "ref")
+I searched with my heart how to cheer my body with wine<br>
+-- my heart still guiding me with wisdom --<br>
+and how to lay hold on folly, <br>
+till I might see what was good for the children of man <br>
+to do under heaven during the few days of their life.
+
+<div class="zh">
+我 心 裡 察 究 ， 如 何 用 酒 使 我 肉 體 舒 暢 ， <br>
+我 心 卻 仍 以 智 慧 引 導 我 ； <br>
+又 如 何 持 住 愚 昧 ， 等 我 看 明 世 人 ， <br>
+在 天 下 一 生 當 行 何 事 為 美 。
+</div>
+
+[Ecclesiastes 傳道書 2:3 (ESV/CUV) (p.2/8)](# "ref")
+
+---
+[4](# "ref")
+I made great works. <br>
+I built houses and planted vineyards for myself.
+
+[5](# "ref")
+I made myself gardens and parks, <br>
+and planted in them all kinds of fruit trees. <br>
+[6](# "ref")
+I made myself pools from which to water <br>
+the forest of growing trees.
+
+<div class="zh">
+我 為 自 己 動 大 工 程 ， <br>
+建 造 房 屋 ， 栽 種 葡 萄 園 ，<br>
+
+[5](# "ref")
+修 造 園 囿 ， 在 其 中 栽 種 各 樣 果 木 樹 ；<br>
+
+[6](# "ref")
+挖 造 水 池 ， 用 以 澆 灌 嫩 小 的 樹 木 。
+</div>
+
+[Ecclesiastes 傳道書 2:4-6 (ESV/CUV) (p.3/8)](# "ref")
+
+---
+[7](# "ref")
+I bought male and female slaves, <br>
+and had slaves who were born in my house.
+
+I had also great possessions of herds and flocks, <br>
+more than any who had been before me in Jerusalem.
+
+<div class="zh">
+我 買 了 僕 婢 ， 也 有 生 在 家 中 的 僕 婢 ；<br>
+又 有 許 多 牛 群 羊 群 ， <br>
+勝 過 以 前 在 耶 路 撒 冷 眾 人 所 有 的 。
+</div>
+
+[Ecclesiastes 傳道書 2:7 (ESV/CUV) (p.4/8)](# "ref")
+
+---
+[8](# "ref")
+I also gathered for myself silver and gold <br>
+and the treasure of kings and provinces.
+
+I got singers, both men and women, <br>
+and many concubines, the delight of the sons of man.
+
+<div class="zh">
+我 又 為 自 己 積 蓄 金 銀 和 君 王 的 財 寶 ， <br>
+並 各 省 的 財 寶 ； <br>
+又 得 唱 歌 的 男 女 和 世 人 所 喜 愛 的 物 ， <br>
+並 許 多 的 妃 嬪 。
+</div>
+
+[Ecclesiastes 傳道書 2:8 (ESV/CUV) (p.5/8)](# "ref")
+
+---
+[9](# "ref")
+So I became great and surpassed all <br>
+who were before me in Jerusalem.
+
+Also my wisdom remained with me.
+
+<div class="zh">
+這 樣 ， 我 就 日 見 昌 盛 ， <br>
+勝 過 以 前 在 耶 路 撒 冷 的 眾 人 。 <br>
+我 的 智 慧 仍 然 存 留 。
+</div>
+
+[Ecclesiastes 傳道書 2:9 (ESV/CUV) (p.6/8)](# "ref")
+
+---
+[10](# "ref")
+And whatever my eyes desired I did not keep from them. <br>
+I kept my heart from no pleasure, <br>
+for my heart found pleasure in all my toil, <br>
+and this was my reward for all my toil.
+
+<div class="zh">
+凡 我 眼 所 求 的 ， 我 沒 有 留 下 不 給 他 的 ； <br>
+我 心 所 樂 的 ， 我 沒 有 禁 止 不 享 受 的 ； <br>
+因 我 的 心 為 我 一 切 所 勞 碌 的 快 樂 ， <br>
+這 就 是 我 從 勞 碌 中 所 得 的 分 。
+</div>
+
+[Ecclesiastes 傳道書 2:10 (ESV/CUV) (p.7/8)](# "ref")
+
+---
+[11](# "ref")
+Then I considered all that my hands had done <br>
+and the toil I had expended in doing it, <br>
+and behold, all was vanity and a striving after wind, <br>
+and there was nothing to be gained under the sun.
+
+<div class="zh">
+後 來 ， 我 察 看 我 手 所 經 營 的 一 切 事 <br>
+和 我 勞 碌 所 成 的 功 。 <br>
+誰 知 都 是 虛 空 ， 都 是 捕 風 ； <br>
+在 日 光 之 下 毫 無 益 處 。
+</div>
+
+[Ecclesiastes 傳道書 2:11 (ESV/CUV) (p.8/8)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="outline" class="outline" -->
