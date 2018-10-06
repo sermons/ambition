@@ -205,13 +205,23 @@ and of pleasure, “What **use** is it?”
 ---
 Look carefully then how you **walk**, <br>
 not as unwise but as **wise**, <br>
+[16](# "ref")
 making the best use of the **time**, <br>
 because the **days** are evil.
 
+[17](# "ref")
 Therefore do not be **foolish**, but <br>
 understand what the **will of the Lord** is.
 
 <div class="zh">
+你 們 要 謹 慎 行 事 ， <br>
+不 要 像 愚 昧 人 ， 當 像 智 慧 人 。<br>
+
+[16](# "ref")
+要 愛 惜 光 陰 ， 因 為 現 今 的 世 代 邪 惡 。<br>
+
+[17](# "ref")
+不 要 作 糊 塗 人 ， 要 明 白 主 的 旨 意 如 何 。
 </div>
 
 [Ephesians 5:15-17 (ESV/CUV)](# "ref")
@@ -269,20 +279,40 @@ the forest of growing trees.
   + **temple** for God: historically **famed**
 
 ---
-And whatever my eyes **desired** <br>
-I did not keep from them. <br>
-I kept my heart from no **pleasure**, <br>
-for my heart found pleasure in all my **toil**, <br>
+Then I considered all that my **hands** had done <br>
+and the **toil** I had expended in doing it, <br>
+and behold, all was **vanity** and a striving after **wind**, <br>
+and there was nothing to be gained **under the sun**.
+
+<div class="zh">
+後 來 ， 我 察 看 我 手 所 經 營 的 一 切 事 <br>
+和 我 勞 碌 所 成 的 功 。 <br>
+誰 知 都 是 虛 空 ， 都 是 捕 風 ； <br>
+在 日 光 之 下 毫 無 益 處 。
+</div>
+
+[Ecclesiastes 傳道書 2:11 (ESV/CUV)](# "ref")
+
+>>>
++ ch2b: all goes to **heir**
+  + will he **appreciate** it?
+  + will it **harm** him?
+  + will anyone **remember** legacy?
++ in **this** life, only **fleeting** reward:
+
+---
+My heart found pleasure in all my **toil**, <br>
 and this was my **reward** for all my toil.
 
 <div class="zh">
-凡 我 眼 所 求 的 ， 我 沒 有 留 下 不 給 他 的 ； <br>
-我 心 所 樂 的 ， 我 沒 有 禁 止 不 享 受 的 ； <br>
-因 我 的 心 為 我 一 切 所 勞 碌 的 快 樂 ， <br>
+我 的 心 為 我 一 切 所 勞 碌 的 快 樂 ， <br>
 這 就 是 我 從 勞 碌 中 所 得 的 分 。
 </div>
 
 [Ecclesiastes 傳道書 2:10 (ESV/CUV)](# "ref")
+
+>>>
++ echoed in **ch5** (passage on **money**):
 
 ---
 [19](# "ref")
@@ -300,6 +330,12 @@ and to **accept** his lot and **rejoice** in his toil<br>
 
 [Ecclesiastes 傳道書 5:19 (ESV/CUV) (p.1/2)](# "ref")
 
+>>>
++ sounds nice, similar to **secular** self-help
++ be **content**, **enjoy** what you have
+  + **gift** / blessing from God
++ continue in **v20**:
+
 ---
 [20](# "ref")
 For he will not much **remember** <br>
@@ -314,8 +350,42 @@ God keeps him **occupied** with joy in his heart.
 
 [Ecclesiastes 傳道書 5:20 (ESV/CUV) (p.2/2)](# "ref")
 
+>>>
++ so is that **all** we have to look forward to?
++ **distract** ourselves with
+  + being **busy**
+  + staying **content**
++ and don't **think** about how **useless** it is?
++ what give us **job satisfaction**?
+  + depends on who we're **working** for:
+  + ourselves, **corporation**, family expectations
++ do we have a **higher** calling?
+  + serve a greater **Master**:
+
 ---
-## (parable of talents)
+Well done, **good** and **faithful** servant. <br>
+You have been faithful over a **little**; <br>
+I will set you over **much**. <br>
+Enter into the **joy** of your master!
+
+<div class="zh">
+好 ， 你 這 又 良 善 又 忠 心 的 僕 人 ， <br>
+你 在 不 多 的 事 上 有 忠 心 ，  <br>
+我 要 把 許 多 事 派 你 管 理 ；  <br>
+可 以 進 來 享 受 你 主 人 的 快 樂 。
+</div>
+
+[Matthew 馬太福音 25:21 (ESV/CUV)](# "ref")
+
+>>>
++ parable of **talents** (Mt25)
++ our **Creator** is our **Master**
+  + He defines our **purpose**
+  + defines **success** / job well done
++ our **reward** is to enter into His **joy**
+  + Father well-**pleased** with us
+  + **relationship**, not prizes
++ e.g., JJ: daddy why don't you **smile** more?
 
 ---
 <!-- .slide: data-background="white" -->
@@ -326,6 +396,10 @@ God keeps him **occupied** with joy in his heart.
   + 60-80km 2-3x/wk, Vancouver-Langley
   + measure **progress**
   + set **goals** + attain them
++ but **greater** satisfaction is:
+  + enter into **joy** of Heavenly **Father**
+  + not based on own **efforts**
+  + but Jesus' **forgiveness**
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
