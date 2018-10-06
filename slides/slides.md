@@ -465,8 +465,7 @@ for one's **life** does not consist in <br>
 the abundance of his **possessions**.
 
 <div class="zh">
-你 們 要 謹 慎 自 守 ，
-免 去 一 切 的 貪 心 ，
+你 們 要 謹 慎 自 守 ， 免 去 一 切 的 貪 心 ，<br>
 因 為 人 的 生 命 不 在 乎 家 道 豐 富 。
 </div>
 
