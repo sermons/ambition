@@ -7,9 +7,10 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
-1. *Sat am:* What is **Wisdom**? [(ch1)](# "ref")
-1. *Sat pm:* Is there meaning in **Ambition**? [(ch2)](# "ref")
-1. *Sun am:* Is there meaning in **Money**? [(ch5)](# "ref")
+1. *Sat am:* **Introduction** to Ecclesiastes
+1. *Sat pm:* Is there meaning <br>
+  in **Ambition** + **Money**? [(ch2)](# "ref")
+1. *Sun am:* What is **Wisdom**? [(ch1)](# "ref")
 1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
 1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
 
@@ -222,7 +223,8 @@ understand what the **will of the Lord** is.
 >>>
 + Eccl also says it is a **blessing**
   + to be **content** and find **joy** in work
-+ but is that our **goal**?
++ but is happiness the **goal**?
+  + if **not**, what is?
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
@@ -230,6 +232,10 @@ understand what the **will of the Lord** is.
 1. Pleasure [(v1-3)](# "ref")
 1. **Projects** [(v4-6)](# "ref")
 1. Possessions [(v7-9)](# "ref")
+
+>>>
++ Sol tried pursuit of **happiness**
++ what about **building** things?
 
 ---
 [4](# "ref")
@@ -255,12 +261,19 @@ the forest of growing trees.
 
 [Ecclesiastes 傳道書 2:4-6 (ESV/CUV)](# "ref")
 
+>>>
++ had **resources** + **peace**
++ **palace** for himself
+  + another for **judgment**
+  + another for Pharoah's **daughter**
+  + **temple** for God: historically **famed**
+
 ---
-And whatever my eyes desired <br>
+And whatever my eyes **desired** <br>
 I did not keep from them. <br>
-I kept my heart from no pleasure, <br>
-for my heart found pleasure in all my toil, <br>
-and this was my reward for all my toil.
+I kept my heart from no **pleasure**, <br>
+for my heart found pleasure in all my **toil**, <br>
+and this was my **reward** for all my toil.
 
 <div class="zh">
 凡 我 眼 所 求 的 ， 我 沒 有 留 下 不 給 他 的 ； <br>
@@ -270,6 +283,36 @@ and this was my reward for all my toil.
 </div>
 
 [Ecclesiastes 傳道書 2:10 (ESV/CUV)](# "ref")
+
+---
+[19](# "ref")
+Everyone also to whom God has given <br>
+**wealth** and possessions and power to **enjoy** them, <br>
+and to **accept** his lot and **rejoice** in his toil<br>
+-- this is the **gift** of God.
+
+<div class="zh">
+[19](# "ref")
+神 賜 人 資 財 豐 富 ， 使 他 能 以 吃 用 ， <br>
+能 取 自 己 的 分 ， 在 他 勞 碌 中 喜 樂 ， <br>
+這 乃 是 神 的 恩 賜 。
+</div>
+
+[Ecclesiastes 傳道書 5:19 (ESV/CUV) (p.1/2)](# "ref")
+
+---
+[20](# "ref")
+For he will not much **remember** <br>
+the days of his life because <br>
+God keeps him **occupied** with joy in his heart.
+
+<div class="zh">
+[20](# "ref")
+他 不 多 思 念 自 己 一 生 的 年 日 ， <br>
+因 為 神 應 他 的 心 使 他 喜 樂 。
+</div>
+
+[Ecclesiastes 傳道書 5:20 (ESV/CUV) (p.2/2)](# "ref")
 
 ---
 ## (parable of talents)
@@ -304,6 +347,35 @@ the abundance of his **possessions**.
 </div>
 
 [Luke 12:15 (ESV/CUV)](# "ref")
+
+---
+[17](# "ref")
+As for the **rich** in this present age, <br>
+charge them not to be **haughty**, nor to <br>
+set their **hopes** on the uncertainty of riches,
+
+but on **God**, who richly **provides** us <br>
+with everything to **enjoy**.
+
+<div class="zh">
+</div>
+
+[1 Timothy 6:17 (ESV/CUV) (p.1/2)](# "ref")
+
+---
+[18](# "ref")
+They are to do **good**, to be rich in good **works**,<br>
+to be **generous** and ready to **share**,
+
+[19](# "ref")
+thus storing up **treasure** for themselves<br>
+as a good foundation for the **future**,<br>
+so that they make take hold of that which is **truly** life.
+
+<div class="zh">
+</div>
+
+[1 Timothy 6:18-19 (ESV/CUV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
