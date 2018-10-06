@@ -176,7 +176,7 @@ and there was nothing to be gained under the sun.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Is it wrong to pursue **happiness**?
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
@@ -186,8 +186,11 @@ and there was nothing to be gained under the sun.
 1. Possessions [(v7-9)](# "ref")
 
 ---
+## (parable of talents)
+
+---
 <!-- .slide: data-background="white" -->
-# Q2
+# Have I experienced the satisfaction of a "job well done"?
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
@@ -196,9 +199,12 @@ and there was nothing to be gained under the sun.
 1. Projects [(v4-6)](# "ref")
 1. **Possessions** [(v7-9)](# "ref")
 
+>>>
++ e.g., JJ too many **toys**
+
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What **possessions** did I take **pride** in? 
 
 ---
 <!-- .slide: data-background="white" -->
