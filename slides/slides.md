@@ -232,6 +232,46 @@ understand what the **will of the Lord** is.
 1. Possessions [(v7-9)](# "ref")
 
 ---
+[4](# "ref")
+I made great **works**. <br>
+I built **houses** and planted vineyards for myself.<br>
+[5](# "ref")
+I made myself **gardens** and parks, <br>
+and planted in them all kinds of fruit **trees**. <br>
+[6](# "ref")
+I made myself **pools** from which to water <br>
+the forest of growing trees.
+
+<div class="zh">
+我 為 自 己 動 大 工 程 ， <br>
+建 造 房 屋 ， 栽 種 葡 萄 園 ，<br>
+
+[5](# "ref")
+修 造 園 囿 ， 在 其 中 栽 種 各 樣 果 木 樹 ；<br>
+
+[6](# "ref")
+挖 造 水 池 ， 用 以 澆 灌 嫩 小 的 樹 木 。
+</div>
+
+[Ecclesiastes 傳道書 2:4-6 (ESV/CUV)](# "ref")
+
+---
+And whatever my eyes desired <br>
+I did not keep from them. <br>
+I kept my heart from no pleasure, <br>
+for my heart found pleasure in all my toil, <br>
+and this was my reward for all my toil.
+
+<div class="zh">
+凡 我 眼 所 求 的 ， 我 沒 有 留 下 不 給 他 的 ； <br>
+我 心 所 樂 的 ， 我 沒 有 禁 止 不 享 受 的 ； <br>
+因 我 的 心 為 我 一 切 所 勞 碌 的 快 樂 ， <br>
+這 就 是 我 從 勞 碌 中 所 得 的 分 。
+</div>
+
+[Ecclesiastes 傳道書 2:10 (ESV/CUV)](# "ref")
+
+---
 ## (parable of talents)
 
 ---
