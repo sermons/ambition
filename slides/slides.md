@@ -14,6 +14,16 @@
 1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
 1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
 
+>>>
++ adjust **schedule**:
+  + return to **ch1** tomorrow **am**
+  + tonight combine **ch2+5**
++ Sol's **experiments**
+  + what do people **do** to find meaning? 
+  + **try** each one out
+  + still with **wisdom**
+  + to find its **result**
+
 ---
 <!-- .slide: data-background="white" -->
 # What are my <br> **goals** in life?
