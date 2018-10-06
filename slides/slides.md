@@ -203,6 +203,7 @@ and of pleasure, “What **use** is it?”
 + why not just live for **today**?
 
 ---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 Look carefully then how you **walk**, <br>
 not as unwise but as **wise**, <br>
 [16](# "ref")
@@ -248,6 +249,7 @@ understand what the **will of the Lord** is.
 + what about **building** things?
 
 ---
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
 [4](# "ref")
 I made great **works**. <br>
 I built **houses** and planted vineyards for myself.<br>
@@ -270,6 +272,7 @@ the forest of growing trees.
 </div>
 
 [Ecclesiastes 傳道書 2:4-6 (ESV/CUV)](# "ref")
+[Julian Böck](https://unsplash.com/photos/agS-BtrQZrs "caption")
 
 >>>
 + had **resources** + **peace**
@@ -279,6 +282,7 @@ the forest of growing trees.
   + **temple** for God: historically **famed**
 
 ---
+<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 Then I considered all that my **hands** had done <br>
 and the **toil** I had expended in doing it, <br>
 and behold, all was **vanity** and a striving after **wind**, <br>
@@ -292,6 +296,7 @@ and there was nothing to be gained **under the sun**.
 </div>
 
 [Ecclesiastes 傳道書 2:11 (ESV/CUV)](# "ref")
+[Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 
 >>>
 + ch2b: all goes to **heir**
@@ -301,6 +306,7 @@ and there was nothing to be gained **under the sun**.
 + in **this** life, only **fleeting** reward:
 
 ---
+<!-- .slide: <%= bg("unsplash-xEy9QNUCdRI-potter.jpg") %> -->
 My heart found pleasure in all my **toil**, <br>
 and this was my **reward** for all my toil.
 
@@ -315,6 +321,7 @@ and this was my **reward** for all my toil.
 + echoed in **ch5** (passage on **money**):
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 [19](# "ref")
 Everyone also to whom God has given <br>
 **wealth** and possessions and power to **enjoy** them, <br>
@@ -329,6 +336,7 @@ and to **accept** his lot and **rejoice** in his toil<br>
 </div>
 
 [Ecclesiastes 傳道書 5:19 (ESV/CUV) (p.1/2)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + sounds nice, similar to **secular** self-help
@@ -337,6 +345,7 @@ and to **accept** his lot and **rejoice** in his toil<br>
 + continue in **v20**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 [20](# "ref")
 For he will not much **remember** <br>
 the days of his life because <br>
@@ -349,6 +358,7 @@ God keeps him **occupied** with joy in his heart.
 </div>
 
 [Ecclesiastes 傳道書 5:20 (ESV/CUV) (p.2/2)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + so is that **all** we have to look forward to?
@@ -363,6 +373,7 @@ God keeps him **occupied** with joy in his heart.
   + serve a greater **Master**:
 
 ---
+<!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
 Well done, **good** and **faithful** servant. <br>
 You have been faithful over a **little**; <br>
 I will set you over **much**. <br>
@@ -376,6 +387,7 @@ Enter into the **joy** of your master!
 </div>
 
 [Matthew 馬太福音 25:21 (ESV/CUV)](# "ref")
+[Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
 + parable of **talents** (Mt25)
@@ -409,6 +421,7 @@ Enter into the **joy** of your master!
 1. **Possessions** [(v7-9)](# "ref")
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 [7](# "ref")
 I had also great **possessions** of herds and flocks, <br>
 more than any who had been before me in Jerusalem.
@@ -427,11 +440,14 @@ and the **treasure** of kings and provinces.
 </div>
 
 [Ecclesiastes 傳道書 2:7,8 (ESV/CUV)](# "ref")
+[NegativeSpace.co/money](https://www.pexels.com/photo/working-business-money-coins-34204/ "caption")
 
 >>>
 + e.g., JJ too many **toys**
++ I have toys, too!  Only gets more **expensive**
 
 ---
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 Take care, and be on your **guard** <br>
 against all **covetousness**, <br>
 for one's **life** does not consist in <br>
@@ -445,7 +461,12 @@ the abundance of his **possessions**.
 
 [Luke 路加福音 12:15 (ESV/CUV)](# "ref")
 
+>>>
++ man felt **cheated** out of his **inheritance**
++ asked Jesus to **arbitrate**
+
 ---
+<!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
 [17](# "ref")
 As for the **rich** in this present age, <br>
 charge them not to be **haughty**, nor to <br>
@@ -464,6 +485,7 @@ with everything to **enjoy**.
 [1 Timothy 提摩太前書 6:17 (ESV/CUV) (p.1/2)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
 [18](# "ref")
 They are to do **good**, to be rich in good **works**,<br>
 to be **generous** and ready to **share**,
