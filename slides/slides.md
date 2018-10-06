@@ -20,6 +20,7 @@
 [###](#/outline "secret")
 
 ---
+[1](# "ref")
 I said in my heart, “Come now, <br>
 I will test you with pleasure; enjoy yourself.” <br>
 But behold, this also was vanity.
@@ -29,6 +30,7 @@ I said of laughter, “It is mad,” <br>
 and of pleasure, “What use is it?”
 
 <div class="zh">
+[1](# "ref")
 我 心 裡 說 ： 來 罷 ， 我 以 喜 樂 試 試 你 ，<br>
 你 好 享 福 ！ 誰 知 ， 這 也 是 虛 空 。<br>
 
@@ -171,12 +173,56 @@ and there was nothing to be gained under the sun.
 
 ---
 <!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> -->
+I said in my heart, “Come now, <br>
+I will **test** you with **pleasure**; enjoy yourself.” <br>
+But behold, this also was **vanity**.
 
+[2](# "ref")
+I said of laughter, “It is **mad**,” <br>
+and of pleasure, “What **use** is it?”
+
+<div class="zh">
+我 心 裡 說 ： 來 罷 ， 我 以 喜 樂 試 試 你 ，<br>
+你 好 享 福 ！ 誰 知 ， 這 也 是 虛 空 。<br>
+
+[2](# "ref")
+我 指 嬉 笑 說 ： 這 是 狂 妄 。 <br>
+論 喜 樂 說 ： 有 何 功 效 呢 ？
+</div>
+
+[Ecclesiastes 傳道書 2:1-2 (ESV/CUV)](# "ref")
 [Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
+
+>>>
++ **test**: kept **wisdom** with him
+  + an **experiment**, not **indulgence**
++ "life is **short**", so **maximise** enjoyment
+  + spend **youth** earning **money**
+  + then spend **money** to regain **youth**
++ why not just live for **today**?
+
+---
+Look carefully then how you **walk**, <br>
+not as unwise but as **wise**, <br>
+making the best use of the **time**, <br>
+because the **days** are evil.
+
+Therefore do not be **foolish**, but <br>
+understand what the **will of the Lord** is.
+
+<div class="zh">
+</div>
+
+[Ephesians 5:15-17 (ESV/CUV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
 # Is it wrong to pursue **happiness**?
+
+>>>
++ Eccl also says it is a **blessing**
+  + to be **content** and find **joy** in work
++ but is that our **goal**?
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
@@ -190,7 +236,7 @@ and there was nothing to be gained under the sun.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I experienced the satisfaction of a "job well done"?
+# Have I had the satisfaction of a "job well done"?
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="outline" -->
@@ -204,7 +250,7 @@ and there was nothing to be gained under the sun.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **possessions** did I take **pride** in? 
+# What **possessions** do I take **pride** in?
 
 ---
 <!-- .slide: data-background="white" -->
