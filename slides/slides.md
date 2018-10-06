@@ -418,9 +418,12 @@ for one's **life** does not consist in <br>
 the abundance of his **possessions**.
 
 <div class="zh">
+你 們 要 謹 慎 自 守 ，
+免 去 一 切 的 貪 心 ，
+因 為 人 的 生 命 不 在 乎 家 道 豐 富 。
 </div>
 
-[Luke 12:15 (ESV/CUV)](# "ref")
+[Luke 路加福音 12:15 (ESV/CUV)](# "ref")
 
 ---
 [17](# "ref")
@@ -432,9 +435,13 @@ but on **God**, who richly **provides** us <br>
 with everything to **enjoy**.
 
 <div class="zh">
+[17](# "ref")
+你 要 囑 咐 那 些 今 世 富 足 的 人 ， <br>
+不 要 自 高 ， 也 不 要 倚 靠 無 定 的 錢 財 ； <br>
+只 要 倚 靠 那 厚 賜 百 物 給 我 們 享 受 的 神 。
 </div>
 
-[1 Timothy 6:17 (ESV/CUV) (p.1/2)](# "ref")
+[1 Timothy 提摩太前書 6:17 (ESV/CUV) (p.1/2)](# "ref")
 
 ---
 [18](# "ref")
@@ -447,9 +454,16 @@ as a good foundation for the **future**,<br>
 so that they make take hold of that which is **truly** life.
 
 <div class="zh">
+[18](# "ref")
+又 要 囑 咐 他 們 行 善 ， 在 好 事 上 富 足 ，<br>
+甘 心 施 捨 ， 樂 意 供 給 人 ，<br>
+
+[19](# "ref")
+為 自 己 積 成 美 好 的 根 基 ， 預 備 將 來 ，<br>
+叫 他 們 持 定 那 真 正 的 生 命 。
 </div>
 
-[1 Timothy 6:18-19 (ESV/CUV) (p.2/2)](# "ref")
+[1 Timothy 提摩太前書 6:18-19 (ESV/CUV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
