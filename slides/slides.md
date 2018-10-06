@@ -8,8 +8,8 @@
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
 1. *Sat am:* **Introduction** to Ecclesiastes
-1. *Sat pm:* Is there meaning <br>
-  in **Ambition** + **Money**? [(ch2)](# "ref")
+1. *Sat pm:* Is there <br> meaning
+  in **Ambition** + **Money**? [(ch2,5)](# "ref")
 1. *Sun am:* What is **Wisdom**? [(ch1)](# "ref")
 1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
 1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
@@ -178,20 +178,25 @@ I said in my heart, “Come now, <br>
 I will **test** you with **pleasure**; enjoy yourself.” <br>
 But behold, this also was **vanity**.
 
-[2](# "ref")
+<div class="zh">
+我 心 裡 說 ： 來 罷 ， 我 以 喜 樂 試 試 你 ，<br>
+你 好 享 福 ！ 誰 知 ， 這 也 是 虛 空 。<br>
+</div>
+
+[Ecclesiastes 傳道書 2:1 (ESV/CUV) (p.1/2)](# "ref")
+[Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> -->
 I said of laughter, “It is **mad**,” <br>
 and of pleasure, “What **use** is it?”
 
 <div class="zh">
-我 心 裡 說 ： 來 罷 ， 我 以 喜 樂 試 試 你 ，<br>
-你 好 享 福 ！ 誰 知 ， 這 也 是 虛 空 。<br>
-
-[2](# "ref")
 我 指 嬉 笑 說 ： 這 是 狂 妄 。 <br>
 論 喜 樂 說 ： 有 何 功 效 呢 ？
 </div>
 
-[Ecclesiastes 傳道書 2:1-2 (ESV/CUV)](# "ref")
+[Ecclesiastes 傳道書 2:2 (ESV/CUV) (p.2/2)](# "ref")
 [Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
 
 >>>
@@ -210,22 +215,28 @@ not as unwise but as **wise**, <br>
 making the best use of the **time**, <br>
 because the **days** are evil.
 
-[17](# "ref")
-Therefore do not be **foolish**, but <br>
-understand what the **will of the Lord** is.
-
 <div class="zh">
 你 們 要 謹 慎 行 事 ， <br>
 不 要 像 愚 昧 人 ， 當 像 智 慧 人 。<br>
 
 [16](# "ref")
 要 愛 惜 光 陰 ， 因 為 現 今 的 世 代 邪 惡 。<br>
+</div>
 
+[Ephesians 以弗所書 5:15-16 (ESV/CUV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
+[17](# "ref")
+Therefore do not be **foolish**, but <br>
+understand what the **will of the Lord** is.
+
+<div class="zh">
 [17](# "ref")
 不 要 作 糊 塗 人 ， 要 明 白 主 的 旨 意 如 何 。
 </div>
 
-[Ephesians 5:15-17 (ESV/CUV)](# "ref")
+[Ephesians 以弗所書 5:17 (ESV/CUV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
