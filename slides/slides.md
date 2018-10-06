@@ -41,7 +41,8 @@ and of pleasure, “What use is it?”
 
 ---
 [3](# "ref")
-I searched with my heart how to cheer my body with wine<br>
+I searched with my heart <br>
+how to cheer my body with wine<br>
 -- my heart still guiding me with wisdom --<br>
 and how to lay hold on folly, <br>
 till I might see what was good for the children of man <br>
@@ -59,8 +60,7 @@ to do under heaven during the few days of their life.
 ---
 [4](# "ref")
 I made great works. <br>
-I built houses and planted vineyards for myself.
-
+I built houses and planted vineyards for myself.<br>
 [5](# "ref")
 I made myself gardens and parks, <br>
 and planted in them all kinds of fruit trees. <br>
@@ -131,7 +131,8 @@ Also my wisdom remained with me.
 
 ---
 [10](# "ref")
-And whatever my eyes desired I did not keep from them. <br>
+And whatever my eyes desired <br>
+I did not keep from them. <br>
 I kept my heart from no pleasure, <br>
 for my heart found pleasure in all my toil, <br>
 and this was my reward for all my toil.
