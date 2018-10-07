@@ -30,6 +30,13 @@
 
 [###](#/outline "secret")
 
+>>>
++ **career** goals (e.g., doctor)
++ **relationship** / family / kids
++ **career** goals for **kids** (e.g., doctor)
++ **retire** and be **happy**
++ is that **all** there is to life?
+
 ---
 [1](# "ref")
 I said in my heart, “Come now, <br>
@@ -182,6 +189,10 @@ and there was nothing to be gained under the sun.
 1. **Projects** [(v4-6)](# "ref")
 1. **Possessions** [(v7-9)](# "ref")
 
+>>>
++ 3 aspects of what Sol **tried**
++ **search** for meaning, lasting **value**
+
 ---
 <!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> -->
 I said in my heart, “Come now, <br>
@@ -195,6 +206,14 @@ But behold, this also was **vanity**.
 
 [Ecclesiastes 傳道書 2:1 (ESV/CUV) (p.1/2)](# "ref")
 [Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
+
+>>>
++ **test**: kept **wisdom** with him
+  + an **experiment**, not **indulgence**
++ "life is **short**", so **maximise** enjoyment
+  + spend **youth** earning **money**
+  + then spend **money** to regain **youth**
++ why not just live for **today**?
 
 ---
 <!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> -->
@@ -210,12 +229,16 @@ and of pleasure, “What **use** is it?”
 [Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
 
 >>>
-+ **test**: kept **wisdom** with him
-  + an **experiment**, not **indulgence**
-+ "life is **short**", so **maximise** enjoyment
-  + spend **youth** earning **money**
-  + then spend **money** to regain **youth**
-+ why not just live for **today**?
++ we use **entertainment** to **distract** ourselves
+  + but doesn't make **problems** go away
++ e.g., **cruise** comedian:
+  + leave your **troubles** at the dock
+  + they'll **still** be there when you return
++ e.g., **video games**, bar/drinking
+  + **"retail therapy"** (mall)
++ not that they are **bad**
+  + but if we all **die** anyway,
+  + what **use** is pleasure?
 
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
@@ -235,6 +258,14 @@ because the **days** are evil.
 
 [Ephesians 以弗所書 5:15-16 (ESV/CUV) (p.1/2)](# "ref")
 
+>>>
++ NT also acknowledges the days are **evil**
+  + the **era** we live in
+  + **injustice** in the world
+  + **futility** of our short lives
++ but don't **give up**
+  + or **indulge** in what feels good
+
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 [17](# "ref")
@@ -247,6 +278,12 @@ understand what the **will of the Lord** is.
 </div>
 
 [Ephesians 以弗所書 5:17 (ESV/CUV) (p.2/2)](# "ref")
+
+>>>
++ short **time** on earth means all the **more**
+  + must pursue God's **will**
++ seek **wisdom** that comes from God
+  + only He sees the eternal picture
 
 ---
 <!-- .slide: data-background="white" -->
@@ -441,6 +478,16 @@ Enter into the **joy** of your master!
 1. Projects [(v4-6)](# "ref")
 1. **Possessions** [(v7-9)](# "ref")
 
+>>>
++ easy to get **jealous** of what others have
++ latest **phone**, car, job title
++ **commercials** don't sell a **product**
+  + sell a **lifestyle**
+  + drink this **beer** and you'll be
+  + **surfing** in Hawaii with beautiful women!
++ **Sol** had the means to buy
+  + **everything** his heart desired:
+
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 [7](# "ref")
@@ -465,7 +512,9 @@ and the **treasure** of kings and provinces.
 
 >>>
 + e.g., JJ too many **toys**
-+ I have toys, too!  Only gets more **expensive**
++ as number of **toys** increases,
+  + **enjoyment** of them decreases
++ I have toys, too!  Only get more **expensive**
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
