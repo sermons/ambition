@@ -515,6 +515,14 @@ and the **treasure** of kings and provinces.
 + as number of **toys** increases,
   + **enjoyment** of them decreases
 + I have toys, too!  Only get more **expensive**
++ earn **income**: feel **entitled** to buy toys
+  + **my** money to spend as I wish
++ forgot **all** I have is by God's **providence**
+  + even ability to **think**, work
++ in Luke 12, a man felt **cheated**
+  + by brother, over **inheritance**
++ asked Jesus to **arbitrate**
+  + Jesus **replied**:
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
@@ -531,8 +539,20 @@ the abundance of his **possessions**.
 [Luke 路加福音 12:15 (ESV/CUV)](# "ref")
 
 >>>
-+ man felt **cheated** out of his **inheritance**
-+ asked Jesus to **arbitrate**
++ You are worth **more** than just your bank account!
++ e.g., aging retired **father**:
+  + **duty** to provide for kids, but
+  + kids see him as **"bank of daddy"**
++ he sees **himself** that way, too!
+  + use **money** to exert influence
+  + do as I **say**, or
+  + I exclude you from my **will**!
++ our Heavenly Father **treasures** you as His child
+  + not for what you can **give** to Him
+  + you are more **valuable** than your possessions
++ but we are **richly** blessed
+  + **wealthy** compared to most of world
+  + **how** should we live?
 
 ---
 <!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
@@ -552,6 +572,15 @@ with everything to **enjoy**.
 </div>
 
 [1 Timothy 提摩太前書 6:17 (ESV/CUV) (p.1/2)](# "ref")
+
+>>>
++ watch out for **pride**
++ don't **rely** on money as **safety net**
++ ch5: money can **disappear** easily
+  + money can **hurt** its owner
++ our real safety net is our **Father**
+  + **generous** and **gracious**
++ **blesses** us so we can in turn **bless** others:
 
 ---
 <!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
@@ -576,14 +605,29 @@ so that they make take hold of that which is **truly** life.
 
 [1 Timothy 提摩太前書 6:18-19 (ESV/CUV) (p.2/2)](# "ref")
 
+>>>
++ give as **generously** as God has given to us
+  + (haplotes): **whole**, open heart,
+  + sincere, not duplicitous
++ the real **treasure** is not in the banks
+  + take hold of Jesus' true **life**
+
 ---
 <!-- .slide: data-background="white" -->
-# What **possessions** cause me to be **proud**?
+# What gives me **security**?
+
+>>>
++ having enough **money** to pay off house?
+  + or buy houses for **kids**?
++ keeping a good **job** to earn that money?
++ keeping a sharp **mind** / able **body** to do that job?
++ preserving my **health** so I can have a sharp mind?
++ what if all of that were to **disappear**?
 
 ---
 <!-- .slide: data-background="white" -->
 ## 1. What are my **goals** in life?
 ## 2. Is it wrong to pursue **happiness**? [(Eph5:15-17)](# "ref")
 ## 3. Have I had the **satisfaction** of a "job well done"? [(Mt25:21)](# "ref")
-## 4. What **possessions** cause me to be **proud**? [(1Tim6:17-19)](# "ref")
+## 4. What gives me **security**? [(1Tim6:17-19)](# "ref")
 
