@@ -1,4 +1,4 @@
-# Ambition (2/5)
+# Ambition (2/4)
 ## Ecc2:1-11
 
 [![Build status](https://travis-ci.org/sermons/ambition.svg)](https://travis-ci.org/sermons/ambition)

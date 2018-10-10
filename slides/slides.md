@@ -1,7 +1,7 @@
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="title" -->
 # Ambition
 ## Ecclesiastes 2:1-11
-### The Meaning of Life (2/5)
+### The Meaning of Life (2/4)
 
 [Caleb George](https://unsplash.com/photos/URmkfvtK3Qw "caption")
 
