@@ -1,7 +1,7 @@
 # Ambition (2/4)
 ## Ecc2:1-11
 
-[![Build status](https://api.travis-ci.org/sermons/ambition.svg)](https://travis-ci.org/github/sermons/ambition)
+[![Build status](https://api.travis-ci.com/sermons/ambition.svg)](https://travis-ci.com/github/sermons/ambition)
 [![Node deps](https://david-dm.org/sermons/ambition.svg)](https://david-dm.org/sermons/ambition)
 [![Node devDeps](https://david-dm.org/sermons/ambition/dev-status.svg)](https://david-dm.org/sermons/ambition?type=dev)
 
