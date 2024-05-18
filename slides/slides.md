@@ -1,17 +1,17 @@
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="title" -->
 # Ambition
 ## Ecclesiastes 2:1-11
-### The Meaning of Life (2/4)
+### The Search for Meaning (2/4)
 
 [Caleb George](https://unsplash.com/photos/URmkfvtK3Qw "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
 1. *Sat pm:* What is **Wisdom**? [(ch1)](# "ref")
-1. *Sun am:* Is there <br> meaning
+1. *Sun am:* Is there meaning <br>
   in **Ambition** + **Money**? [(ch2,5)](# "ref")
-1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
-1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
+1. *Sun pm:* What is the <br> **Fate** of mankind? [(ch9)](# "ref")
+1. *Mon am:* What is the <br> meaning of **Life**? [(ch12)](# "ref")
 
 >>>
 + Sol's **experiments**
@@ -41,7 +41,7 @@ But behold, this also was vanity.
 I said of laughter, “It is mad,” <br>
 and of pleasure, “What use is it?”
 
-[Ecclesiastes 2:1-2 (ESV) (p.1/8)](# "ref")
+[Ecclesiastes 2:1-2 (ESV) (p.1/7)](# "ref")
 
 ******
 [3](# "ref")
@@ -53,7 +53,7 @@ and how to lay hold on folly, <br>
 till I might see what was good for the children of man <br>
 to do under heaven during the few days of their life.
 
-[Ecclesiastes 2:3 (ESV) (p.2/8)](# "ref")
+[Ecclesiastes 2:3 (ESV) (p.2/7)](# "ref")
 
 ******
 [4](# "ref")
@@ -68,7 +68,7 @@ and planted in them all kinds of fruit trees.
 I made myself pools from which to water <br>
 the forest of growing trees.
 
-[Ecclesiastes 2:4-6 (ESV) (p.3/8)](# "ref")
+[Ecclesiastes 2:4-6 (ESV) (p.3/7)](# "ref")
 
 ******
 [7](# "ref")
@@ -78,7 +78,7 @@ and had slaves who were born in my house.
 I had also great possessions of herds and flocks, <br>
 more than any who had been before me in Jerusalem.
 
-[Ecclesiastes 2:7 (ESV) (p.4/8)](# "ref")
+[Ecclesiastes 2:7 (ESV) (p.4/7)](# "ref")
 
 ******
 [8](# "ref")
@@ -88,16 +88,13 @@ and the treasure of kings and provinces.
 I got singers, both men and women, <br>
 and many concubines, the delight of the sons of man.
 
-[Ecclesiastes 2:8 (ESV) (p.5/8)](# "ref")
-
-******
 [9](# "ref")
 So I became great and surpassed all <br>
 who were before me in Jerusalem.
 
 Also my wisdom remained with me.
 
-[Ecclesiastes 2:9 (ESV) (p.6/8)](# "ref")
+[Ecclesiastes 2:8-9 (ESV) (p.5/7)](# "ref")
 
 ******
 [10](# "ref")
@@ -108,7 +105,7 @@ I kept my heart from no pleasure, <br>
 for my heart found pleasure in all my toil, <br>
 and this was my reward for all my toil.
 
-[Ecclesiastes 2:10 (ESV) (p.7/8)](# "ref")
+[Ecclesiastes 2:10 (ESV) (p.6/7)](# "ref")
 
 ******
 [11](# "ref")
@@ -118,7 +115,7 @@ and the toil I had expended in doing it,
 and behold, all was vanity and a striving after wind, <br>
 and there was nothing to be gained under the sun.
 
-[Ecclesiastes 2:11 (ESV) (p.8/8)](# "ref")
+[Ecclesiastes 2:11 (ESV) (p.7/7)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="outline" class="outline" -->
