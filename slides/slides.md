@@ -7,17 +7,13 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> id="series" class="outline" -->
-1. *Sat am:* **Introduction** to Ecclesiastes
-1. *Sat pm:* Is there <br> meaning
+1. *Sat pm:* What is **Wisdom**? [(ch1)](# "ref")
+1. *Sun am:* Is there <br> meaning
   in **Ambition** + **Money**? [(ch2,5)](# "ref")
-1. *Sun am:* What is **Wisdom**? [(ch1)](# "ref")
 1. *Sun pm:* What is the **Fate** of mankind? [(ch9)](# "ref")
 1. *Mon am:* What is the meaning of **Life**? [(ch12)](# "ref")
 
 >>>
-+ adjust **schedule**:
-  + return to **ch1** tomorrow **am**
-  + tonight combine **ch2+5**
 + Sol's **experiments**
   + what do people **do** to find meaning?
   + **try** each one out
@@ -28,8 +24,6 @@
 <!-- .slide: data-background="white" -->
 # What are my <br> **goals** in life?
 
-[###](#/outline "secret")
-
 >>>
 + **career** goals (e.g., doctor)
 + **relationship** / family / kids
@@ -37,7 +31,7 @@
 + **retire** and be **happy**
 + is that **all** there is to life?
 
----
+******
 [1](# "ref")
 I said in my heart, “Come now, <br>
 I will test you with pleasure; enjoy yourself.” <br>
@@ -47,61 +41,36 @@ But behold, this also was vanity.
 I said of laughter, “It is mad,” <br>
 and of pleasure, “What use is it?”
 
-<div class="zh">
-[1](# "ref")
-我 心 裡 說 ： 來 罷 ， 我 以 喜 樂 試 試 你 ，<br>
-你 好 享 福 ！ 誰 知 ， 這 也 是 虛 空 。<br>
+[Ecclesiastes 2:1-2 (ESV) (p.1/8)](# "ref")
 
-[2](# "ref")
-我 指 嬉 笑 說 ： 這 是 狂 妄 。 <br>
-論 喜 樂 說 ： 有 何 功 效 呢 ？
-</div>
-
-[Ecclesiastes 傳道書 2:1-2 (ESV/CUV) (p.1/8)](# "ref")
-
----
+******
 [3](# "ref")
 I searched with my heart <br>
 how to cheer my body with wine<br>
--- my heart still guiding me with wisdom --<br>
+-- my heart still guiding me with wisdom --
+
 and how to lay hold on folly, <br>
 till I might see what was good for the children of man <br>
 to do under heaven during the few days of their life.
 
-<div class="zh">
-我 心 裡 察 究 ， 如 何 用 酒 使 我 肉 體 舒 暢 ， <br>
-我 心 卻 仍 以 智 慧 引 導 我 ； <br>
-又 如 何 持 住 愚 昧 ， 等 我 看 明 世 人 ， <br>
-在 天 下 一 生 當 行 何 事 為 美 。
-</div>
+[Ecclesiastes 2:3 (ESV) (p.2/8)](# "ref")
 
-[Ecclesiastes 傳道書 2:3 (ESV/CUV) (p.2/8)](# "ref")
-
----
+******
 [4](# "ref")
 I made great works. <br>
-I built houses and planted vineyards for myself.<br>
+I built houses and planted vineyards for myself.
+
 [5](# "ref")
 I made myself gardens and parks, <br>
-and planted in them all kinds of fruit trees. <br>
+and planted in them all kinds of fruit trees.
+
 [6](# "ref")
 I made myself pools from which to water <br>
 the forest of growing trees.
 
-<div class="zh">
-我 為 自 己 動 大 工 程 ， <br>
-建 造 房 屋 ， 栽 種 葡 萄 園 ，<br>
+[Ecclesiastes 2:4-6 (ESV) (p.3/8)](# "ref")
 
-[5](# "ref")
-修 造 園 囿 ， 在 其 中 栽 種 各 樣 果 木 樹 ；<br>
-
-[6](# "ref")
-挖 造 水 池 ， 用 以 澆 灌 嫩 小 的 樹 木 。
-</div>
-
-[Ecclesiastes 傳道書 2:4-6 (ESV/CUV) (p.3/8)](# "ref")
-
----
+******
 [7](# "ref")
 I bought male and female slaves, <br>
 and had slaves who were born in my house.
@@ -109,15 +78,9 @@ and had slaves who were born in my house.
 I had also great possessions of herds and flocks, <br>
 more than any who had been before me in Jerusalem.
 
-<div class="zh">
-我 買 了 僕 婢 ， 也 有 生 在 家 中 的 僕 婢 ；<br>
-又 有 許 多 牛 群 羊 群 ， <br>
-勝 過 以 前 在 耶 路 撒 冷 眾 人 所 有 的 。
-</div>
+[Ecclesiastes 2:7 (ESV) (p.4/8)](# "ref")
 
-[Ecclesiastes 傳道書 2:7 (ESV/CUV) (p.4/8)](# "ref")
-
----
+******
 [8](# "ref")
 I also gathered for myself silver and gold <br>
 and the treasure of kings and provinces.
@@ -125,62 +88,37 @@ and the treasure of kings and provinces.
 I got singers, both men and women, <br>
 and many concubines, the delight of the sons of man.
 
-<div class="zh">
-我 又 為 自 己 積 蓄 金 銀 和 君 王 的 財 寶 ， <br>
-並 各 省 的 財 寶 ； <br>
-又 得 唱 歌 的 男 女 和 世 人 所 喜 愛 的 物 ， <br>
-並 許 多 的 妃 嬪 。
-</div>
+[Ecclesiastes 2:8 (ESV) (p.5/8)](# "ref")
 
-[Ecclesiastes 傳道書 2:8 (ESV/CUV) (p.5/8)](# "ref")
-
----
+******
 [9](# "ref")
 So I became great and surpassed all <br>
 who were before me in Jerusalem.
 
 Also my wisdom remained with me.
 
-<div class="zh">
-這 樣 ， 我 就 日 見 昌 盛 ， <br>
-勝 過 以 前 在 耶 路 撒 冷 的 眾 人 。 <br>
-我 的 智 慧 仍 然 存 留 。
-</div>
+[Ecclesiastes 2:9 (ESV) (p.6/8)](# "ref")
 
-[Ecclesiastes 傳道書 2:9 (ESV/CUV) (p.6/8)](# "ref")
-
----
+******
 [10](# "ref")
 And whatever my eyes desired <br>
-I did not keep from them. <br>
+I did not keep from them. 
+
 I kept my heart from no pleasure, <br>
 for my heart found pleasure in all my toil, <br>
 and this was my reward for all my toil.
 
-<div class="zh">
-凡 我 眼 所 求 的 ， 我 沒 有 留 下 不 給 他 的 ； <br>
-我 心 所 樂 的 ， 我 沒 有 禁 止 不 享 受 的 ； <br>
-因 我 的 心 為 我 一 切 所 勞 碌 的 快 樂 ， <br>
-這 就 是 我 從 勞 碌 中 所 得 的 分 。
-</div>
+[Ecclesiastes 2:10 (ESV) (p.7/8)](# "ref")
 
-[Ecclesiastes 傳道書 2:10 (ESV/CUV) (p.7/8)](# "ref")
-
----
+******
 [11](# "ref")
 Then I considered all that my hands had done <br>
-and the toil I had expended in doing it, <br>
+and the toil I had expended in doing it,
+
 and behold, all was vanity and a striving after wind, <br>
 and there was nothing to be gained under the sun.
 
-<div class="zh">
-後 來 ， 我 察 看 我 手 所 經 營 的 一 切 事 <br>
-和 我 勞 碌 所 成 的 功 。 <br>
-誰 知 都 是 虛 空 ， 都 是 捕 風 ； <br>
-在 日 光 之 下 毫 無 益 處 。
-</div>
-
-[Ecclesiastes 傳道書 2:11 (ESV/CUV) (p.8/8)](# "ref")
+[Ecclesiastes 2:11 (ESV) (p.8/8)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="outline" class="outline" -->
@@ -199,12 +137,7 @@ I said in my heart, “Come now, <br>
 I will **test** you with **pleasure**; enjoy yourself.” <br>
 But behold, this also was **vanity**.
 
-<div class="zh">
-我 心 裡 說 ： 來 罷 ， 我 以 喜 樂 試 試 你 ，<br>
-你 好 享 福 ！ 誰 知 ， 這 也 是 虛 空 。<br>
-</div>
-
-[Ecclesiastes 傳道書 2:1 (ESV/CUV) (p.1/2)](# "ref")
+[Ecclesiastes 2:1 (ESV)](# "ref")
 [Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
 
 >>>
@@ -220,13 +153,7 @@ But behold, this also was **vanity**.
 I said of laughter, “It is **mad**,” <br>
 and of pleasure, “What **use** is it?”
 
-<div class="zh">
-我 指 嬉 笑 說 ： 這 是 狂 妄 。 <br>
-論 喜 樂 說 ： 有 何 功 效 呢 ？
-</div>
-
-[Ecclesiastes 傳道書 2:2 (ESV/CUV) (p.2/2)](# "ref")
-[Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
+[Ecclesiastes 2:2 (ESV)]("ref")
 
 >>>
 + we use **entertainment** to **distract** ourselves
@@ -243,20 +170,15 @@ and of pleasure, “What **use** is it?”
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
 Look carefully then how you **walk**, <br>
-not as unwise but as **wise**, <br>
-[16](# "ref")
+not as unwise but as **wise**,
+
 making the best use of the **time**, <br>
 because the **days** are evil.
 
-<div class="zh">
-你 們 要 謹 慎 行 事 ， <br>
-不 要 像 愚 昧 人 ， 當 像 智 慧 人 。<br>
+Therefore do not be **foolish**, but <br>
+understand what the **will of the Lord** is.
 
-[16](# "ref")
-要 愛 惜 光 陰 ， 因 為 現 今 的 世 代 邪 惡 。<br>
-</div>
-
-[Ephesians 以弗所書 5:15-16 (ESV/CUV) (p.1/2)](# "ref")
+[Ephesians 5:15-17 (ESV)](# "ref")
 
 >>>
 + NT also acknowledges the days are **evil**
@@ -265,21 +187,6 @@ because the **days** are evil.
   + **futility** of our short lives
 + but don't **give up**
   + or **indulge** in what feels good
-
----
-<!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
-[17](# "ref")
-Therefore do not be **foolish**, but <br>
-understand what the **will of the Lord** is.
-
-<div class="zh">
-[17](# "ref")
-不 要 作 糊 塗 人 ， 要 明 白 主 的 旨 意 如 何 。
-</div>
-
-[Ephesians 以弗所書 5:17 (ESV/CUV) (p.2/2)](# "ref")
-
->>>
 + short **time** on earth means all the **more**
   + must pursue God's **will**
 + seek **wisdom** that comes from God
@@ -308,28 +215,16 @@ understand what the **will of the Lord** is.
 
 ---
 <!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
-[4](# "ref")
 I made great **works**. <br>
-I built **houses** and planted vineyards for myself.<br>
-[5](# "ref")
+I built **houses** and planted vineyards for myself.
+
 I made myself **gardens** and parks, <br>
-and planted in them all kinds of fruit **trees**. <br>
-[6](# "ref")
+and planted in them all kinds of fruit **trees**.
+
 I made myself **pools** from which to water <br>
 the forest of growing trees.
 
-<div class="zh">
-我 為 自 己 動 大 工 程 ， <br>
-建 造 房 屋 ， 栽 種 葡 萄 園 ，<br>
-
-[5](# "ref")
-修 造 園 囿 ， 在 其 中 栽 種 各 樣 果 木 樹 ；<br>
-
-[6](# "ref")
-挖 造 水 池 ， 用 以 澆 灌 嫩 小 的 樹 木 。
-</div>
-
-[Ecclesiastes 傳道書 2:4-6 (ESV/CUV)](# "ref")
+[Ecclesiastes 2:4-6 (ESV)](# "ref")
 [Julian Böck](https://unsplash.com/photos/agS-BtrQZrs "caption")
 
 >>>
@@ -342,18 +237,12 @@ the forest of growing trees.
 ---
 <!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 Then I considered all that my **hands** had done <br>
-and the **toil** I had expended in doing it, <br>
+and the **toil** I had expended in doing it,
+
 and behold, all was **vanity** and a striving after **wind**, <br>
 and there was nothing to be gained **under the sun**.
 
-<div class="zh">
-後 來 ， 我 察 看 我 手 所 經 營 的 一 切 事 <br>
-和 我 勞 碌 所 成 的 功 。 <br>
-誰 知 都 是 虛 空 ， 都 是 捕 風 ； <br>
-在 日 光 之 下 毫 無 益 處 。
-</div>
-
-[Ecclesiastes 傳道書 2:11 (ESV/CUV)](# "ref")
+[Ecclesiastes 2:11 (ESV)](# "ref")
 [Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 
 >>>
@@ -368,32 +257,19 @@ and there was nothing to be gained **under the sun**.
 My heart found pleasure in all my **toil**, <br>
 and this was my **reward** for all my toil.
 
-<div class="zh">
-我 的 心 為 我 一 切 所 勞 碌 的 快 樂 ， <br>
-這 就 是 我 從 勞 碌 中 所 得 的 分 。
-</div>
-
-[Ecclesiastes 傳道書 2:10 (ESV/CUV)](# "ref")
+[Ecclesiastes 2:10 (ESV)](# "ref")
 
 >>>
 + echoed in **ch5** (passage on **money**):
 
 ---
 <!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
-[19](# "ref")
 Everyone also to whom God has given <br>
 **wealth** and possessions and power to **enjoy** them, <br>
 and to **accept** his lot and **rejoice** in his toil<br>
 -- this is the **gift** of God.
 
-<div class="zh">
-[19](# "ref")
-神 賜 人 資 財 豐 富 ， 使 他 能 以 吃 用 ， <br>
-能 取 自 己 的 分 ， 在 他 勞 碌 中 喜 樂 ， <br>
-這 乃 是 神 的 恩 賜 。
-</div>
-
-[Ecclesiastes 傳道書 5:19 (ESV/CUV) (p.1/2)](# "ref")
+[Ecclesiastes 5:19 (ESV) (p.1/2)](# "ref")
 [Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
@@ -404,18 +280,11 @@ and to **accept** his lot and **rejoice** in his toil<br>
 
 ---
 <!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
-[20](# "ref")
 For he will not much **remember** <br>
 the days of his life because <br>
 God keeps him **occupied** with joy in his heart.
 
-<div class="zh">
-[20](# "ref")
-他 不 多 思 念 自 己 一 生 的 年 日 ， <br>
-因 為 神 應 他 的 心 使 他 喜 樂 。
-</div>
-
-[Ecclesiastes 傳道書 5:20 (ESV/CUV) (p.2/2)](# "ref")
+[Ecclesiastes 5:20 (ESV) (p.2/2)](# "ref")
 [Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
@@ -437,14 +306,7 @@ You have been faithful over a **little**; <br>
 I will set you over **much**. <br>
 Enter into the **joy** of your master!
 
-<div class="zh">
-好 ， 你 這 又 良 善 又 忠 心 的 僕 人 ， <br>
-你 在 不 多 的 事 上 有 忠 心 ，  <br>
-我 要 把 許 多 事 派 你 管 理 ；  <br>
-可 以 進 來 享 受 你 主 人 的 快 樂 。
-</div>
-
-[Matthew 馬太福音 25:21 (ESV/CUV)](# "ref")
+[Matthew 25:21 (ESV)](# "ref")
 [Steven Van Loy, Biarritz, France](https://unsplash.com/photos/oUhSla4L_98 "caption")
 
 >>>
@@ -490,24 +352,13 @@ Enter into the **joy** of your master!
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
-[7](# "ref")
 I had also great **possessions** of herds and flocks, <br>
 more than any who had been before me in Jerusalem.
 
-[8](# "ref")
 I also gathered for myself **silver** and **gold** <br>
 and the **treasure** of kings and provinces.
 
-<div class="zh">
-[7](# "ref")
-我 ... 又 有 許 多 牛 群 羊 群 ， <br>
-勝 過 以 前 在 耶 路 撒 冷 眾 人 所 有 的 。<br>
-[8](# "ref")
-我 又 為 自 己 積 蓄 金 銀 和 君 王 的 財 寶 ， <br>
-並 各 省 的 財 寶 ； <br>
-</div>
-
-[Ecclesiastes 傳道書 2:7,8 (ESV/CUV)](# "ref")
+[Ecclesiastes 2:7,8 (ESV)](# "ref")
 [NegativeSpace.co/money](https://www.pexels.com/photo/working-business-money-coins-34204/ "caption")
 
 >>>
@@ -527,16 +378,12 @@ and the **treasure** of kings and provinces.
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 Take care, and be on your **guard** <br>
-against all **covetousness**, <br>
+against all **covetousness**,
+
 for one's **life** does not consist in <br>
 the abundance of his **possessions**.
 
-<div class="zh">
-你 們 要 謹 慎 自 守 ， 免 去 一 切 的 貪 心 ，<br>
-因 為 人 的 生 命 不 在 乎 家 道 豐 富 。
-</div>
-
-[Luke 路加福音 12:15 (ESV/CUV)](# "ref")
+[Luke 12:15 (ESV)](# "ref")
 
 >>>
 + You are worth **more** than just your bank account!
@@ -556,7 +403,6 @@ the abundance of his **possessions**.
 
 ---
 <!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
-[17](# "ref")
 As for the **rich** in this present age, <br>
 charge them not to be **haughty**, nor to <br>
 set their **hopes** on the uncertainty of riches,
@@ -564,14 +410,7 @@ set their **hopes** on the uncertainty of riches,
 but on **God**, who richly **provides** us <br>
 with everything to **enjoy**.
 
-<div class="zh">
-[17](# "ref")
-你 要 囑 咐 那 些 今 世 富 足 的 人 ， <br>
-不 要 自 高 ， 也 不 要 倚 靠 無 定 的 錢 財 ； <br>
-只 要 倚 靠 那 厚 賜 百 物 給 我 們 享 受 的 神 。
-</div>
-
-[1 Timothy 提摩太前書 6:17 (ESV/CUV) (p.1/2)](# "ref")
+[1 Timothy 6:17 (ESV) (p.1/2)](# "ref")
 
 >>>
 + watch out for **pride**
@@ -584,26 +423,14 @@ with everything to **enjoy**.
 
 ---
 <!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
-[18](# "ref")
 They are to do **good**, to be rich in good **works**,<br>
 to be **generous** and ready to **share**,
 
-[19](# "ref")
 thus storing up **treasure** for themselves<br>
 as a good foundation for the **future**,<br>
 so that they make take hold of that which is **truly** life.
 
-<div class="zh">
-[18](# "ref")
-又 要 囑 咐 他 們 行 善 ， 在 好 事 上 富 足 ，<br>
-甘 心 施 捨 ， 樂 意 供 給 人 ，<br>
-
-[19](# "ref")
-為 自 己 積 成 美 好 的 根 基 ， 預 備 將 來 ，<br>
-叫 他 們 持 定 那 真 正 的 生 命 。
-</div>
-
-[1 Timothy 提摩太前書 6:18-19 (ESV/CUV) (p.2/2)](# "ref")
+[1 Timothy 6:18-19 (ESV) (p.2/2)](# "ref")
 
 >>>
 + give as **generously** as God has given to us
