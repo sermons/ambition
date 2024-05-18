@@ -452,6 +452,9 @@ so that they make take hold of that which is **truly** life.
 + what if all of that were to **disappear**?
 
 ---
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> class="empty" -->
+
+---
 <!-- .slide: data-background="white" -->
 ## 1. What are my **goals** in life?
 ## 2. Is it wrong to pursue **happiness**? [(Eph5:15-17)](# "ref")
