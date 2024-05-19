@@ -46,12 +46,13 @@ and of pleasure, “What use is it?”
 ******
 [3](# "ref")
 I searched with my heart <br>
-how to cheer my body with wine<br>
--- my heart still guiding me with wisdom --
+how to cheer my body with wine --<br>
+my heart still guiding me with wisdom --
 
 and how to lay hold on folly, <br>
-till I might see what was good for the children of man <br>
-to do under heaven during the few days of their life.
+till I might see what was good for <br>
+the children of man to do under heaven <br>
+during the few days of their life.
 
 [Ecclesiastes 2:3 (ESV) (p.2/7)](# "ref")
 
@@ -86,7 +87,8 @@ I also gathered for myself silver and gold <br>
 and the treasure of kings and provinces.
 
 I got singers, both men and women, <br>
-and many concubines, the delight of the sons of man.
+and many concubines, <br>
+the delight of the sons of man.
 
 [9](# "ref")
 So I became great and surpassed all <br>
@@ -112,8 +114,10 @@ and this was my reward for all my toil.
 Then I considered all that my hands had done <br>
 and the toil I had expended in doing it,
 
-and behold, all was vanity and a striving after wind, <br>
-and there was nothing to be gained under the sun.
+and behold, all was vanity <br>
+and a striving after wind, <br>
+and there was nothing to be gained <br>
+under the sun.
 
 [Ecclesiastes 2:11 (ESV) (p.7/7)](# "ref")
 
@@ -163,6 +167,7 @@ and of pleasure, “What **use** is it?”
 + not that they are **bad**
   + but if we all **die** anyway,
   + what **use** is pleasure?
++ Eph 5 admonishes:
 
 ---
 <!-- .slide: <%= bg("unsplash-MMylZHPsO2I-walk_trestle_forest.jpg") %> -->
@@ -236,8 +241,11 @@ the forest of growing trees.
 Then I considered all that my **hands** had done <br>
 and the **toil** I had expended in doing it,
 
-and behold, all was **vanity** and a striving after **wind**, <br>
-and there was nothing to be gained **under the sun**.
+and behold, all was **vanity** <br>
+and a striving after **wind**,
+
+and there was nothing to be gained <br>
+**under the sun**.
 
 [Ecclesiastes 2:11 (ESV)](# "ref")
 [Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
@@ -262,7 +270,9 @@ and this was my **reward** for all my toil.
 ---
 <!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 Everyone also to whom God has given <br>
-**wealth** and possessions and power to **enjoy** them, <br>
+**wealth** and possessions <br>
+and power to **enjoy** them,
+
 and to **accept** his lot and **rejoice** in his toil<br>
 -- this is the **gift** of God.
 
@@ -295,6 +305,7 @@ God keeps him **occupied** with joy in his heart.
   + ourselves, **corporation**, family expectations
 + do we have a **higher** calling?
   + serve a greater **Master**:
++ Parable of 5/2/1 talents Mt 25:
 
 ---
 <!-- .slide: <%= bg("unsplash-oUhSla4L_98-father_daughter.jpg") %> -->
@@ -349,8 +360,10 @@ Enter into the **joy** of your master!
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
-I had also great **possessions** of herds and flocks, <br>
-more than any who had been before me in Jerusalem.
+I had also great **possessions** <br>
+of herds and flocks, <br>
+more than any who had been <br>
+before me in Jerusalem.
 
 I also gathered for myself **silver** and **gold** <br>
 and the **treasure** of kings and provinces.
@@ -397,6 +410,7 @@ the abundance of his **possessions**.
 + but we are **richly** blessed
   + **wealthy** compared to most of world
   + **how** should we live?
+  + 1Tim6 addresses the **rich**:
 
 ---
 <!-- .slide: <%= bg("unsplash-Bkci_8qcdvQ-Kluane_mtns_valley.jpg") %> -->
@@ -425,7 +439,8 @@ to be **generous** and ready to **share**,
 
 thus storing up **treasure** for themselves<br>
 as a good foundation for the **future**,<br>
-so that they make take hold of that which is **truly** life.
+so that they make take hold of <br>
+that which is **truly** life.
 
 [1 Timothy 6:18-19 (ESV) (p.2/2)](# "ref")
 
