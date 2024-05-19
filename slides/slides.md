@@ -2,6 +2,7 @@
 # Ambition
 
 ![QR](/img/ambition-qr.png)
+
 <!-- .element: class="r-stretch" -->
 
 ## Ecclesiastes 2:1-11
