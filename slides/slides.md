@@ -1,5 +1,8 @@
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> id="title" -->
 # Ambition
+
+![QR](/img/ambition-qr.png "r-stretch")
+
 ## Ecclesiastes 2:1-11
 ### The Search for Meaning (2/4)
 
